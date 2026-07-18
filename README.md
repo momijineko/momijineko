@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=momijineko&show_icons=true)
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=momijineko)
-
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=momijineko&layout=compact)
 
 
